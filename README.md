@@ -91,7 +91,9 @@ I'm a **Senior Java Developer** with **10+ years** of experience designing and b
 
 <div align="center">
 
-I'm always open to interesting conversations, collaborations, and new opportunities.\n\nFeel free to reach out on any of my social platforms — let's build something great together!
+I'm always open to interesting conversations, collaborations, and new opportunities.
+
+Feel free to reach out on any of my social platforms — let's build something great together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarun_Kumar_Kunchakuri-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tarun-kumar-k-21a78851/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@tkunchak)
